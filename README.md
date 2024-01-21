@@ -36,12 +36,14 @@
 <ol>
     <li>Clone the repository:</li>
     <code>git clone https://github.com/your_username/topsis-implementation.git</code>
-
     <li>Navigate to the project directory:</li>
     <code>cd topsis-implementation</code>
-
     <li>Install dependencies:</li>
     <code>pip install -r requirements.txt</code>
+
+  
+
+ 
 </ol>
 
 <h2 id="usage">Usage</h2>
